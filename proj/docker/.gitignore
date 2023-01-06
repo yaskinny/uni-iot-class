@@ -1,0 +1,3 @@
+./data/
+!./data/prometheus.yml
+!./data/*json
